@@ -1,11 +1,11 @@
 ---
 layout: post
-title: teamLab
+title: PComp Art - teamLab
 ---
 
-# teamLab
-
 ![Two women stand in before a giant screen displaying a colorful stylized elephant](images/pretty-elephant.jfif)
+
+Am I cheating by talking about more than one piece of art? I think I might be cheating...
 
 ## Where to Begin
 
@@ -22,3 +22,19 @@ Wow, that is beautiful. This piece is called *[Universe of Water Particles](http
 ## Down the Rabbit Hole
 
 You see, as I was about to discover, *Universe of Water Particles* is a part of one of teamLab's solo exhibitions, which meant there were suddenly a *lot* more pieces I wanted to check out. While all the pieces in that exhibition were interesting, it was a different exhibition that caught my eye. This exhibition opened mid last year and is one of their permanent ones, called *[Fukuoka Forest](https://www.teamlab.art/e/forest/)*. There are two pieces in this exhibition that I really, really like for very different reasons.
+
+![Two adults stand in an underwater section of the Catching and Collecting Forest](https://www.teamlab.art/images/pc-l/23816)
+
+First up, is the *[Catching and Collecting Forest](https://www.teamlab.art/ew/collecting_forest/forest/)*. Here is where I want to point out just how stunning teamLab's art style is. Depending on the exhibit, their art style does change, but there's staples you start to notice: Bold, neon, vibrant colors, see-through crystal-like textures, clean precise lines, and, in some cases, visual clutter. Their animations move slow and purposeful, but they bombard you with strong, active visual stimuli. That, I believe, is what caught my eye about most of their exhibits, and the *Catching and Collecting Forest* is perhaps the best example of it. This exhibits marries the gameplay style of finding and collecting digital creatures in a physical way, and the pure appreciation for life that pours out of all of teamLab's works. (Oh that last part isn't an exaggeration, they even have an entire solo exhibition is Seoul dedicated to life.) Participants journey through a vast space, where real world creatures (whose likeness is heavily stylized in that style I mentioned before) wander and interact. Using a phone app, participants can point their camera at these creatures and capture them, removing them from the exhibit and placing them on their phone. The app provides various information about the real world animal that participants can read about before releasing the animal back into the exhibit, anywhere they'd like. The more times a participants captures a creature, the more information the app will show.
+
+Now I don't know about you, but that's cool as *heckk*. I can imagine how most of the exhibit works--mostly image recognition--except for releasing an animal somewhere other than where you captured it. My best guess is that is down through visual touchstones in the background that help locate where the user is facing. My only concern with that, is the visual clutter I mentioned before. None of the pieces quite exhibit visual clutter as well as this one does: there is life everywhere! Plants, fish, mammals, lizards. And then there's the scenery as well! There is a *lot* going on no matter where you look, and I feel like that would get in the way of using visual touchstones to communicate with the app about where a person is facing.
+
+![A woman stands in the middle of a squishy floor, digital flower petals raining down the walls and lay on the floor](https://www.teamlab.art/images/pc-l/23583)
+
+This is the piece that made me think "Wow, I need to write about this." Most of their exhibits have some kind of meaning behind them, but as far as I can tell, this exhibit is different. It exists in its own write and while you could probably prescribe meaning onto it, I feel that's doing it a disservice. It's just pretty. First, here's a quick rundown.
+
+This piece is called *[Soft Terrain and Granular Topography](https://www.teamlab.art/w/soft_terrain/)*. The room centers around a large trampoline-esque surface that bends to form different elevations. "Granules" (as they call them, I'm going to call them flowers or flower petals because I like that more. I know they aren't flower petals but they are in my head :p) pour down from the ceiling and flow from higher to lower elevations. Due to the nature of the floor, this means when someone steps onto the floor and stands still, the flower petals will pool around their feet. When the person then moves, the elevation evens out and the pooled flowers burst outward and scatter across the floor. If instead of standing the person were to walk, the flowers would be pushed out of the way of their path.
+
+How this exhibit was done is probably the most interesting to me. First of all, they had to create the squishy surface that allows most of the interactions which... is beyond me. I won't even try to speculate what the material is. After that is made, there has to be some kind of way to sense the elevation different at any given time at any given point. My first guess is some kind of pressure sensor under the entire surface, where the highest pressure relative to its surroundings is where a person is standing. The pressures could be zeroed out at different pressures in order to account for elevation. This approach would probably cause some ~wonkiness~ to happen near the slopes, but it's the best initial guess. After the elevation is known, then it's just a simple matter of having the particles follow a liquid pattern of movement and have them react individually to elevation changes.
+
+I wish I knew more about who made these pieces and how they did it, but unfortunately no where on their site is any of the mentioned, as far as I could find. Even brief Google searching yielded no results. They are really making it as hard as possible to stan them. These exhibits are meant to attract as many people as possible, especially children and their parents. But I'm a 20 year old child and now have one more reason to visit Japan (and South Korea to see their other exhibit).
