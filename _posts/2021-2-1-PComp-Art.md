@@ -3,7 +3,7 @@ layout: post
 title: PComp Art - teamLab
 ---
 
-![Two women stand in before a giant screen displaying a colorful stylized elephant](images/pretty-elephant.jfif)
+![Two women stand in before a giant screen displaying a colorful stylized elephant](https://www.teamlab.art/images/pc-l/23934)
 
 Am I cheating by talking about more than one piece of art? I think I might be cheating...
 
